@@ -3,6 +3,8 @@ videojs-loopbutton
 
 A plugin for Video.js that adds a loop button to dynamically switch to loop on and off.
 
+![Screenshot of Loop button](http://sc-cdn.scaleengine.net/i/bdfa16b2d292079018d23d4b34c45f81.png)
+
 Usage
 =====
 1) a) Upload files to webspace (if needed)
