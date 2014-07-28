@@ -12,6 +12,8 @@ Usage
 `<script src="videojs.loopbutton.js"></script>`
 `<link rel='stylesheet' type='text/css' href='videojs.loopbutton.css' />`
 
+If you use the minified version of video.js use videojs.loopbutton.min.js. It's not exactly minified, but I named it that way so you know for what it is.
+
 2) Activate the plugin by adding it to the videojs object
 `videojs('videoid', { plugins: {
     loopbutton: true
